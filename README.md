@@ -9,5 +9,5 @@ Best Artworks of All Time (https://www.kaggle.com/ikarus777/best-artworks-of-all
 # Predictions:
 The final model could identify the artists with an approximate accuracy of 77.89% on training set and 77.81% on test set.
 
-# Convolution BaseLine Model
+# Convolutional Base Model
 EfficientNet B-7
